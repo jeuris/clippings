@@ -5,6 +5,7 @@ fuel/app/cache/*/*
 logs/
 files/
 
+*.sql
 *.diff
 *.err
 *.orig
@@ -36,4 +37,6 @@ nbproject
 composer.lock
 
 
-
+/data
+/site/config/production/db.php
+/beheer/cms/config/production/db.php

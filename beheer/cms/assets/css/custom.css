@@ -1,0 +1,51 @@
+div.inputButtonContainer
+{
+	
+}
+
+div.inputButtonContainer input[type=text]
+{
+	width:480px;
+	float:left;
+	margin-bottom:10px;
+	margin-right:10px;
+}
+
+div.inputButtonContainer input[type=button]
+{
+	width:480px;
+	float:left;
+	margin-bottom:10px;
+}
+
+.thumbPreview
+{
+	float:left;
+}
+
+#imageButton
+{
+	float:left;
+	margin-left:12px;
+	margin-top:126px;
+}
+
+.clipping-img
+{
+	max-height:375px;
+	max-width:100%;
+}
+
+.clipping
+{
+	width:60%;
+	position:relative;
+}
+
+#clippings-edit
+{
+	position: absolute;
+	top: 325px;
+	left: 190px;
+
+}
